@@ -32,7 +32,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://github.com/Kweeka1/hello-react-front-end">Link to client repository</a></li>
+    <li><a href="https://github.com/Mujeeb4582/hello-react-front-end">Link to client repository</a></li>
   </ul>
 </details>
 
